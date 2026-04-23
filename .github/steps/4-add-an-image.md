@@ -2,6 +2,8 @@
 
 Let's learn how to include [images in markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images), using relative urls, absolute urls, sizing, and basic positioning.
 
+
+
 ### Regular Markdown
 
 Images can be displayed by providing a relative URL to a file in the repository or an absolute URL (to anywhere on the internet).
