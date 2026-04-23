@@ -2,6 +2,8 @@
 
 Markdown supports 3 types of common lists. They include:
 
+
+
 - [Unordered](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) - Bulleted list
 - [Ordered](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) - Number list
 - [Task](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) - Checkbox list
